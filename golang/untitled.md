@@ -6,7 +6,7 @@
 
 ### 初始栈大小
 
-```text
+```c
 stacksize = round2(_StackSystem + _StackMin)
 
 _StackMin = 2048
